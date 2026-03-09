@@ -1,8 +1,8 @@
 # Olá, eu sou o Iago! 🇧🇷 / Hi, I'm Iago! 🇺🇸
 
-Estudante da **UNIFEI** e Estagiário de Software (Computação Gráfica e Desenvolvimento) no projeto de P&D **VR-Mining 789D** (Parceria UNIFEI & Vale). Sou um desenvolvedor focado no ecossistema Python e C/C++, apaixonado por resolver problemas reais da indústria através de visão computacional, processamento de dados e simulações de baixo nível.
+Estudante da **UNIFEI** e Estagiário de Software (Computação Gráfica e Desenvolvimento) no projeto **VR-Mining 789D** (Parceria UNIFEI & Vale). Sou um desenvolvedor focado no ecossistema Python e C/C++, apaixonado por resolver problemas reais da indústria através de visão computacional, processamento de dados e simulações de baixo nível.
 
-Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on the **VR-Mining 789D** R&D project (UNIFEI & Vale partnership). I'm a developer focused on the Python and C/C++ ecosystems, passionate about solving real-world industry problems through computer vision, data processing, and low-level simulations.
+Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on the **VR-Mining 789D** project (UNIFEI & Vale partnership). I'm a developer focused on the Python and C/C++ ecosystems, passionate about solving real-world industry problems through computer vision, data processing, and low-level simulations.
 
 ---
 
