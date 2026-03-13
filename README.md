@@ -27,10 +27,10 @@ Student at **UNIFEI** and Software Intern (Computer Graphics & Development) on t
 
 ### 🔬 Projetos em Destaque / Featured Projects
 
-* **[VR-Mining 789D - Geoprocessamento](https://github.com/Iago-VVilela/project-VR-Mining-789D):** Pipeline automatizado em Python para extrair rotas de imagens de satélite do campus e convertê-las em mapas HD (formato Lanelet2) para o simulador autônomo.
-* **[Linux Custom Syscall & POSIX Signals](https://github.com/Iago-VVilela/linux-custom-syscall):** Modificação direta no código-fonte do Kernel Linux (v5.19.1) para adição de uma *system call* customizada, com integração no *userspace* via programa C++ e manipulação de sinais.
-* **[Thread Synchronization: Supply Chain](https://github.com/Iago-VVilela/cpp-thread-sync):** Simulação do problema Produtor-Consumidor em C++ utilizando a biblioteca padrão de *threads*. Implementação do padrão *Monitor* com *Mutex* e variáveis de condição para controle de concorrência.
-* **[Project Elo-Maluco](https://github.com/Iago-VVilela/project-Elo-Maluco):** Desenvolvimento de algoritmo para resolução do quebra-cabeça lógico "Elo Maluco", explorando estruturas de dados e lógica de programação para encontrar a combinação correta de cores.
+* **[VR-Mining 789D - Geoprocessamento](https://github.com/Iago-VVilela/vr-mining-789D):** Pipeline automatizado em Python para extrair rotas de imagens de satélite do campus e convertê-las em mapas HD (formato Lanelet2) para o simulador autônomo.
+* **[Linux Custom Syscall & POSIX Signals](https://github.com/Iago-VVilela/linux-syscall):** Modificação direta no código-fonte do Kernel Linux (v5.19.1) para adição de uma *system call* customizada, com integração no *userspace* via programa C++ e manipulação de sinais.
+* **[Thread Synchronization: Supply Chain](https://github.com/Iago-VVilela/cpp-thread-syncing):** Simulação do problema Produtor-Consumidor em C++ utilizando a biblioteca padrão de *threads*. Implementação do padrão *Monitor* com *Mutex* e variáveis de condição para controle de concorrência.
+* **[Project Elo-Maluco](https://github.com/Iago-VVilela/missing-link-puzzle):** Desenvolvimento de algoritmo para resolução do quebra-cabeça lógico "Elo Maluco", explorando estruturas de dados e lógica de programação para encontrar a combinação correta de cores.
 
 ---
 
